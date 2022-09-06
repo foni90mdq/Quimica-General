@@ -1,5 +1,7 @@
 # Algunos problemas de practica para el primer parcial
 
+## [Consejos para rendir un parcial](consejos%20para%20resolver%20parciales.md)
+
 ## Problema 1
 0.5 g de hidróxido de calcio 85 % de pureza reaccionan con 7 ml de solución de ácido perclórico 20 %p/p. De ser necesario asuma que le densidad de la solución es la misma que la del agua (1 $g \ mL^{-1}$)
 
