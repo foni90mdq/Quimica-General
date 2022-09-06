@@ -1,4 +1,4 @@
-# Consejos a lo hora de rendir un parcial:
+# Consejos para rendir un parcial:
 
 1.	Lea atenta y detenidamente TODO el parcial antes de comenzar.
 2.	Empiece resolviendo los ejercicios que le resulten más fácil y continue en orden de dificultad creciente. Dejar lo más complicado o lo que no este seguro de cómo resolver para el final.
