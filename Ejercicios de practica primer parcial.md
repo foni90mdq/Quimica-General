@@ -28,6 +28,8 @@ d)	En la batería hay 1 L de solución de ácido sulfúrico 90 %p/p de densidad 
 e)	Escriba las estructuras de Lewis del oxido y de la sal. ¿Qué tipo de compuesto es cada uno (iónico o covalente)? Para el caso del sulfato escriba distintas estructuras de Lewis VALIDAS.\
 f)	Sabiendo que el orden de enlace del enlace S-O en el sulfato es 1.5 (es decir, la longitud de enlace es intermedia entre un enlace doble y uno simple) indique estructuras de Lewis que sean compatibles con esta observación.
 
+[Resolucion problema 2](/res1/Problema2.pdf)
+
 ## Problema 3
 
 Se desea determinar el título de una solución de ácido sulfúrico. Para ello se toma una alícuota de 10 ml y se la diluye en un matraz de 250 ml.
@@ -37,6 +39,8 @@ Se titula con una solución valorado de NaOH 0.0534 $mol \ L^{-1}$ y se gastan 1
 a)	¿De qué color es la solución en el punto final?\
 b)	¿Cuál es la concentración de la solución original de ácido sulfúrico?\
 c)	En vez de agregar 50 mL de agua al Erlenmeyer, usted agrega 30 mL, ¿cuál es ahora la concentración de la solución original de ácido sulfúrico?
+
+[Resolucion problema 3](/res1/Problema3.pdf)
 
 
 
