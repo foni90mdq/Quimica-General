@@ -1,4 +1,11 @@
-<script type="text/javascript" src="path-to-MathJax/MathJax.js"></script>
+<html>
+<head>
+<script type="text/javascript" src="/MathJax/MathJax.js"></script>
+</head>
+<body>
+
+
+
 
 # Algunos problemas de practica para el primer parcial
 
@@ -12,3 +19,7 @@ d)	Exprese la concentración de la solución de perclorico en molar (mol L$^- 1$
 e)	Cuantos moles y cuantos gramos de sal se forman si el rendimiento de la reacción es del 75 %.
 f)	¿Cuántas moléculas de sal se forman?
 g)	¿Cuántos átomos de oxígeno están contenidos en las moléculas calculadas en f?
+
+  
+</body>
+</html>
