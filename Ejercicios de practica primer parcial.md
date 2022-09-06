@@ -11,6 +11,8 @@ e) Cuantos moles y cuantos gramos de sal se forman si el rendimiento de la reacc
 f) ¿Cuántas moléculas de sal se forman?\
 g) ¿Cuántos átomos de oxígeno están contenidos en las moléculas calculadas en f?
 
+[Resolucion problema 1](Resolucion_parcial_prueba_1\Problema1)
+
 ## Problema 2
 
 El “acumulador de plomo” es la batería tradicional que suele encontrarse en la mayoría de los automóviles. La reacción involucrada es:
