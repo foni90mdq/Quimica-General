@@ -1,0 +1,11 @@
+# Consejos a lo hora de rendir un parcial:
+
+1.	Lea atenta y detenidamente TODO el parcial antes de comenzar.
+2.	Empiece resolviendo los ejercicios que le resulten más fácil y continue en orden de dificultad creciente. Dejar lo más complicado o lo que no este seguro de cómo resolver para el final.
+3.	Desarrolle cada ejercicio de la forma más clara y prolija posible, detalle todos los razonamientos que crea necesario para facilitar la lectura de la resolución. Cuanto más fácil sea de leer lo que quiso hacer más fácil será conferirles puntaje a las secciones bien resueltas.
+4.	Prestar atención a las unidades y a las cifras significativas. Todos los resultados deben estar acompañados de la unidad correspondiente. El análisis de unidades (análisis dimensional) puede ayudarlos a determinar si la respuesta a la que arribaron tiene sentido.
+5.	De ser posible revisar las cuentas, muchos errores ocurren simplemente por apretar mal una tecla de la calculadora. 
+6.	Siéntase cómodo con su calculadora. Esto reducirá el estrés a la hora de rendir el examen. Si no está seguro de cómo usar la calculadora pregunte (antes del examen). Hay muy buenos videos en YouTube para los modelos más comunes. Las calculadoras modernas suelen hacer muchas más operaciones de las que pensamos.
+7.	Esquematizar los problemas con diagramas o dibujos que le permitan identificar la información pertinente para la resolución. Esto es de especial importancia en problemas con varios pasos como los problemas de titulación con diluciones.
+8.	Si usted recuerda fórmulas de memoria, sea muy cuidadoso a la hora de utilizarlas, si no sabe que hacer a la hora de resolver un ejercicio probar al azar las ecuaciones que recuerden no dará buenos resultados. Es preferible utilizar el tiempo restante para pensar una estrategia lógica de resolución. Si se siguió el paso 2 con suerte ya habrán resuelto una gran parte del examen cuando surja este problema
+9.	Prestar mucha atención a la gestión del tiempo disponible para realizar el parcial. Para poder hacer esto es muy importante el punto 1. Tratar de perder el menor tiempo posible en los ejercicios que sean mas fáciles o que esten más seguros como resolver para que quede más tiempo para aquellos de mayor grado de dificultad.
