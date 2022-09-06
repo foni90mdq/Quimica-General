@@ -11,7 +11,7 @@ e) Cuantos moles y cuantos gramos de sal se forman si el rendimiento de la reacc
 f) ¿Cuántas moléculas de sal se forman?\
 g) ¿Cuántos átomos de oxígeno están contenidos en las moléculas calculadas en f?
 
-[Resolucion problema 1](Resolucion_parcial_prueba_1\Problema1.pdf)
+[Resolucion problema 1](/res1/Problema1.pdf)
 
 ## Problema 2
 
