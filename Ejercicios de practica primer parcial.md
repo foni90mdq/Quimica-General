@@ -1,8 +1,3 @@
-<html>
-<script type="text/javascript" src="/MathJax/MathJax.js"></script>
-</html>
-
-
 # Algunos problemas de practica para el primer parcial
 
 ## Problema 1
