@@ -1,10 +1,5 @@
 <html>
-<head>
 <script type="text/javascript" src="/MathJax/MathJax.js"></script>
-</head>
-<body>
-
-
 
 
 # Algunos problemas de practica para el primer parcial
@@ -21,5 +16,5 @@ f)	¿Cuántas moléculas de sal se forman?
 g)	¿Cuántos átomos de oxígeno están contenidos en las moléculas calculadas en f?
 
   
-</body>
+
 </html>
