@@ -82,7 +82,7 @@ Para el $BaSO_4$ el $K_{ps} = 0, 87 · 10^{–10}$.
 
 a) Calcule la solubilidad del sulfato de bario (es decir, la concentración de $Ba^{+2}$ en equilibrio con el sólido). 
 
-b) Calcule nuevamente la solubilidad cuando la sal se disuelve en una solución de $Na_2SO4$ 0,1 mol/L. 
+b) Calcule nuevamente la solubilidad cuando la sal se disuelve en una solución de $Na_2SO_4$ 0,1 mol/L. 
 
 c) Explique con sus palabras porque la solubilidad obtenida en b es mucho menor que la obtenida en a.
 
