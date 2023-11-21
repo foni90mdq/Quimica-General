@@ -4,9 +4,10 @@
 
 ## Problema 1
 0,5 mol de gas ideal monoatomico inicialmente a 25 °C se expanden reversiblemente contra una presión externa constante de 2 atm hasta triplicar su volumen.
+
 a) Represente el proceso en un diagrama de P vs V.
 
-b) Calcule el trabajo realizado por el sistema. Es positivo o negativo? Que sig- nifica esto?
+b) Calcule el trabajo realizado por el sistema. Es positivo o negativo? Que significa esto?
 
 c) Calcule el q intercambiado entre el sistema y los alrededores. En que sentido fluye el calor?
 
@@ -14,7 +15,7 @@ d) Calcule la temperatura final del gas.
 
 e) Calcule el cambio de energia interna (∆U) para el gas
 
-Cp gas ideal monoatomico: 5/2 R
+*Dato: Cp gas ideal monoatomico: 5/2 R*
 
 
 
@@ -22,7 +23,7 @@ Cp gas ideal monoatomico: 5/2 R
 
 a) Enuncie la segunda ley de la termodinamica en términos del $∆S_Universo$. 
 
-b) Explique con sus palabras que significa que la anterior sea una desigualdad. Cual cree que es la importancia de la segunda ley
+b) Explique con sus palabras qué significa que la anterior sea una desigualdad. ¿Cuál cree que es la importancia de la segunda ley?
 
 c) La segunda ley tiene validez universal. Entonces, por qué usamos el $∆G_Sistema$ como criterio de reversibilidad? Enuncie este criterio. En qué condiciones es válido?
 
@@ -30,7 +31,7 @@ d) Indique para los siguientes como sera el $∆S_Universo$ y el $∆G_Sistema$.
 
 i. Fusión de un trozo de hielo a 25 °C y 1 atm. 
 
-ii. Fusi ́on de hielo a 0 °C y 1 atm.
+ii. Fusión de hielo a 0 °C y 1 atm.
 
 iii. Expansión reversible de un gas ideal.
 
@@ -40,11 +41,13 @@ iv. Combustión del carbon en una hoguera.
 
 ## Problema 3
 
-a. Explique con sus palabras que es la presión de vapor.
+a. Explique con sus palabras qué es la presión de vapor.
 
-b. Busque como se define la humedad relativa informada por los pronósticos. Explique por qué un día en el que hacen 5 C con 60 % de humedad es más seco que un día en el que hacen 30 C con el mismo porcentaje de humedad.
+b. Busque como se define la humedad relativa informada por los pronósticos. Explique por qué un día en el que hacen 5 °C con 60 % de humedad es más seco que un día en el que hacen 30 °C con el mismo porcentaje de humedad.
 
-c. Se tienen 2 mL de acetona confinados en un recipiente de 2 L a 25 C. La presión de vapor de la acetona a esa temperatura es 222 torr. Calcule cuantos moles de acetona estarán en la fase liquída y cuántos en la gaseosa. La densidad de la acetona a 25 C es 0.80 g/mL. Calcule el volumen de la fase líquida. Explique por qué no es una mala aproximación considerar que el volumen de la fase gaseosa es el volumen completo del recipiente. Calcule el error porcentual de esta aproximación. 
+c. Se tienen 2 mL de acetona confinados en un recipiente de 2 L a 25 °C. La presión de vapor de la acetona a esa temperatura es 222 torr. Calcule cuantos moles de acetona estarán en la fase liquída y cuántos en la gaseosa. La densidad de la acetona a 25 °C es 0.80 g/mL. Calcule el volumen de la fase líquida. Explique por qué no es una mala aproximación considerar que el volumen de la fase gaseosa es el volumen completo del recipiente. Calcule el error porcentual de esta aproximación. 
+
+d. Calcule cuántos moles de acetona quedan en la fase vapor si al sistema anterior se le agrega 1 mL de agua. Asuma comportameinto ideal. La presión de vapor del agua a esa temperatura es 23.8 torr. Calcule también los moles de agua en la fase gaseosa y la preisión total del sistema. Para la densidad del agua use 1 g/mL.
 
 
 
@@ -54,7 +57,7 @@ El carbamato de amonio ($NH_2CO_2NH_4$) se descompone al calentarlo según la re
 
 $NH_2CO_2NH_4(s) \rightleftharpoons CO_2(g) + 2NH_3(g)$
 
-En un recipiente, en el que previamente se ha hecho el vacío, se calienta una cierta cantidad del compuesto sólido y se observa que la presión total del gas en el equilibrio es 0,843 atm a 400 K.
+En un recipiente, en el que previamente se ha hecho vacío, se calienta una cierta cantidad del compuesto sólido y se observa que la presión total del gas en el equilibrio es 0,843 atm a 400 K.
 
 a) Calcular Kp y Kc para el equilibrio presentado.
 
@@ -82,7 +85,9 @@ a) Calcule la solubilidad del sulfato de bario (es decir, la concentración de $
 
 b) Calcule nuevamente la solubilidad cuando la sal se disuelve en una solución de $Na_2SO4$ 0,1 mol/L. 
 
-c) Explique con sus palabras porque la solubilidad obtenida en b es mucho menor que la obtneida en a ;).
+c) Explique con sus palabras porque la solubilidad obtenida en b es mucho menor que la obtenida en a.
+
+
 
 [Resolucion problemas 1 al 6](/res2/parte1.md)
 
@@ -98,7 +103,7 @@ Un recipiente cerrado de 1 L contiene inicialmente 0.01 mol de $I_2$ y 0.01 mol 
 
 a) Los moles de HI(g) presentes en el equilibrio.
 
-b) La presión totalen el equilibrio.
+b) La presión total en el equilibrio.
 
 c) La presión parcial de cada componente en el equilibrio.
 
@@ -110,7 +115,7 @@ d) El valor de Kp a 448 °C para la reacción.
 
 La solubilidad de una sal AB a 25 ºC es $1,0 \times 10^{-4} mol L^{-1}$. 
 
-Calcula el producto desolubilidad $K_{ps}$.
+Calcula el producto de solubilidad $K_{ps}$.
 
 
 
@@ -128,7 +133,7 @@ d) Solución de amoniaco
 
 e) Solución de cloruro de amonio
 
-f) Mezcla de lassoluciones d y e
+f) Mezcla de las soluciones d y e
 
 
 
@@ -154,7 +159,7 @@ b) Escriba las hemireacciones y la ecuación global balanceada
 
 c) En estas condiciones calcule la fem de la celda
 
-d) Que ocurre si sesumerge una barra de hierro en una solución de Ag(I)?
+d) Que ocurre si se sumerge una barra de hierro en una solución de Ag(I)?
 
 
 
