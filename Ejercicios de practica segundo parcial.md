@@ -47,7 +47,7 @@ b. Busque como se define la humedad relativa informada por los pronósticos. Exp
 
 c. Se tienen 2 mL de acetona confinados en un recipiente de 2 L a 25 °C. La presión de vapor de la acetona a esa temperatura es 222 torr. Calcule cuantos moles de acetona estarán en la fase liquída y cuántos en la gaseosa. La densidad de la acetona a 25 °C es 0.80 g/mL. Calcule el volumen de la fase líquida. Explique por qué no es una mala aproximación considerar que el volumen de la fase gaseosa es el volumen completo del recipiente. Calcule el error porcentual de esta aproximación. 
 
-d. Calcule cuántos moles de acetona quedan en la fase vapor si al sistema anterior se le agrega 1 mL de agua. Asuma comportameinto ideal. La presión de vapor del agua a esa temperatura es 23.8 torr. Calcule también los moles de agua en la fase gaseosa y la preisión total del sistema. Para la densidad del agua use 1 g/mL.
+d. Calcule cuántos moles de acetona quedan en la fase vapor si al sistema anterior se le agrega 1 mL de agua. Asuma comportamiento ideal. La presión de vapor del agua a esa temperatura es 23.8 torr. Calcule también los moles de agua en la fase gaseosa y la presión total del sistema. Para la densidad del agua use 1 g/mL.
 
 
 
