@@ -89,7 +89,7 @@ c) Explique con sus palabras porque la solubilidad obtenida en b es mucho menor 
 
 
 
-[Resolucion problemas 1 al 6](/res2/parte1.md)
+[Resolucion problemas 1 al 6](/res2/parte1.pdf)
 
 
 
